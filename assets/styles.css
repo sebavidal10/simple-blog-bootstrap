@@ -1,0 +1,89 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Cabin', sans-serif !important;
+}
+
+.banner img {
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+    height: 60vh;
+}
+
+.last-publications {
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+    height: 60px;
+}
+
+.shadow-text {
+    text-shadow: 1px 2px 3px black;
+}
+
+.bg-custom-black {
+    background-color: #1f1e24;
+}
+
+.logo {
+    width: 135px;
+}
+
+.content {
+    padding-top: 73px;
+}
+
+.is-link:hover {
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.body h3 {
+    margin-top: 40px;
+}
+
+.me {
+    width: 25px;
+    background-color: white;
+    border-radius: 50%;
+}
+
+.user-icon {
+    padding: 13px;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.user-icon-mini {
+    padding: 5px 9px;
+    border-radius: 50%;
+    width: 31px;
+    height: 30px;
+}
+
+.single-comment {
+    text-align: justify;
+    margin-left: 35px;
+    margin-top: 5px;
+}
+
+.label-category {
+    font-size: 12px;
+    text-transform: uppercase;
+    font-family: 'Cabin';
+    position: absolute;
+}
+
+.label-orange { background-color: #ff9800;}
+.label-green { background-color: #4caf50;}
+.label-red { background-color: #f44336;}
+.label-blue { background-color: #2196f3;}
+
+.color-orange { color: #ff9800;}
+.color-green { color: #4caf50;}
+.color-red { color: #f44336;}
+.color-blue { color: #2196f3;}
