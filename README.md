@@ -1,2 +1,2 @@
 # simple-blog-bootstrap
-Simple blog template construido usando Bootstrap 4
+Simple blog template made with Bootstrap 4
